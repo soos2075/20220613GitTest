@@ -9,6 +9,10 @@ public class Managers : MonoBehaviour
         
     }
 
+
+    //? 이것저것 추가하고 주석처리
+
+    // ㅇㅇㅇㅇㅇㅇ
     void Update()
     {
         
